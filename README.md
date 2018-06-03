@@ -1,5 +1,4 @@
 # File_Distributed_Processing
-File Distributed Processing
 
 College: Instituto Superior Técnico
 
