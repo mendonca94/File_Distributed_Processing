@@ -13,13 +13,19 @@ TO RUN THE PROJECT:
 Run the all 3 files at 3 different command line with this order:
 
 CS (Central Server):
---> cd CS  
+
+--> cd CS 
+
 --> python cs.py
 
 WS (Work Server):
+
 --> cd WS  
+
 --> python ws.py
 
 USER:
+
 --> cd User  
+
 --> python user.py
